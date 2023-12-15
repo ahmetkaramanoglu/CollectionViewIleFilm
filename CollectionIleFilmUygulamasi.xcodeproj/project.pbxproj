@@ -14,6 +14,10 @@
 		E319701B2B2BCA9100C35B22 /* CollectionIleFilmUygulamasi.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = E31970192B2BCA9100C35B22 /* CollectionIleFilmUygulamasi.xcdatamodeld */; };
 		E319701D2B2BCA9300C35B22 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E319701C2B2BCA9300C35B22 /* Assets.xcassets */; };
 		E31970202B2BCA9300C35B22 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E319701E2B2BCA9300C35B22 /* LaunchScreen.storyboard */; };
+		E31970282B2BCD3D00C35B22 /* FilmCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E31970272B2BCD3D00C35B22 /* FilmCollectionViewCell.swift */; };
+		E319702A2B2BCDC400C35B22 /* Movies.swift in Sources */ = {isa = PBXBuildFile; fileRef = E31970292B2BCDC400C35B22 /* Movies.swift */; };
+		E319702C2B2BCEA000C35B22 /* BasketViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E319702B2B2BCEA000C35B22 /* BasketViewController.swift */; };
+		E319702E2B2BCEB500C35B22 /* BasketTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E319702D2B2BCEB500C35B22 /* BasketTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +30,10 @@
 		E319701C2B2BCA9300C35B22 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E319701F2B2BCA9300C35B22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E31970212B2BCA9300C35B22 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E31970272B2BCD3D00C35B22 /* FilmCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FilmCollectionViewCell.swift; sourceTree = "<group>"; };
+		E31970292B2BCDC400C35B22 /* Movies.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Movies.swift; sourceTree = "<group>"; };
+		E319702B2B2BCEA000C35B22 /* BasketViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BasketViewController.swift; sourceTree = "<group>"; };
+		E319702D2B2BCEB500C35B22 /* BasketTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BasketTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +74,10 @@
 				E319701E2B2BCA9300C35B22 /* LaunchScreen.storyboard */,
 				E31970212B2BCA9300C35B22 /* Info.plist */,
 				E31970192B2BCA9100C35B22 /* CollectionIleFilmUygulamasi.xcdatamodeld */,
+				E31970272B2BCD3D00C35B22 /* FilmCollectionViewCell.swift */,
+				E31970292B2BCDC400C35B22 /* Movies.swift */,
+				E319702B2B2BCEA000C35B22 /* BasketViewController.swift */,
+				E319702D2B2BCEB500C35B22 /* BasketTableViewCell.swift */,
 			);
 			path = CollectionIleFilmUygulamasi;
 			sourceTree = "<group>";
@@ -142,6 +154,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				E31970152B2BCA9100C35B22 /* ViewController.swift in Sources */,
+				E319702E2B2BCEB500C35B22 /* BasketTableViewCell.swift in Sources */,
+				E31970282B2BCD3D00C35B22 /* FilmCollectionViewCell.swift in Sources */,
+				E319702C2B2BCEA000C35B22 /* BasketViewController.swift in Sources */,
+				E319702A2B2BCDC400C35B22 /* Movies.swift in Sources */,
 				E31970112B2BCA9100C35B22 /* AppDelegate.swift in Sources */,
 				E31970132B2BCA9100C35B22 /* SceneDelegate.swift in Sources */,
 				E319701B2B2BCA9100C35B22 /* CollectionIleFilmUygulamasi.xcdatamodeld in Sources */,
